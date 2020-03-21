@@ -1,0 +1,15 @@
+{
+  "name": "sst39sf040-flasher",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "run": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "onoff": "^5.0.1"
+  }
+}
