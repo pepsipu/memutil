@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@serialport/parser-byte-length": "latest",
+    "@serialport/parser-readline": "latest",
     "colors": "^1.4.0",
-    "onoff": "^5.0.1"
+    "serialport": "^8.0.7"
   }
 }
